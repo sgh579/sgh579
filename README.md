@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @sgh579
-- 👀 I’m interested in c/c++
-- 🌱 I’m currently learning canopen/linux
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 18260321259@163.com
+- 关注嘉然 顿顿解馋
+- Please search for "嘉然今天吃什么" in www.bilibili.com
 
 <!---
 sgh579/sgh579 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
