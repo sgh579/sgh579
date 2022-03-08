@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @sgh579
-- 关注嘉然 顿顿解馋
-- Please search for "嘉然今天吃什么" in www.bilibili.com
+- 👋 Hi
+
 
 <!---
 sgh579/sgh579 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
